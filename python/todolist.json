@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Test1",
+        "discription": "This the first test of cli todolist python version",
+        "timestamp": "2025-01-12 19:30:41",
+        "priority": "High",
+        "status": "In-Progress",
+        "created_at": "2025-01-12 19:30:41",
+        "updated_at": "2025-01-12 19:30:41"
+    }
+]
